@@ -1,4 +1,4 @@
-Certainly! Here's a README for your Actix-web project:
+
 
 ---
 
@@ -103,6 +103,4 @@ The server logs request details using Actix-web's logging middleware. To see the
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust any details as necessary, especially the repository URL and license information.
